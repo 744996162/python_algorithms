@@ -10,6 +10,7 @@ __pycache__/
 *.doc
 *.docx
 *.txt
+.idea/*
 
 
 # C extensions
